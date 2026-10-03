@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1790348313 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Inicio_Sesion.h"
+
+1790348510 d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\inicio_sesion.h
+	<string.h>
+	<stdio.h>
+
+1790344149 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\menu.c
+
+1790344417 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\tda_compra.c
+
+1790344489 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\tda_entrada.c
+
+1790344290 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\tda_establecimiento.c
+
+1790344225 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\tda_evento.c
+
+1790344322 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\tda_sector.c
+
+1790344372 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\tda_ubicacion.c
+
+1790351947 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\tp\gestor\inicio_sesion.c
+	"Inicio_Sesion.h"
+
+1790348313 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Inicio_Sesion.h"
+
+1790348510 d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\inicio_sesion.h
+	<string.h>
+	<stdio.h>
+
+1790344149 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\menu.c
+
+1790344417 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\tda_compra.c
+
+1790344489 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\tda_entrada.c
+
+1790344290 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\tda_establecimiento.c
+
+1790344225 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\tda_evento.c
+
+1790344322 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\tda_sector.c
+
+1790344372 source:d:\rocio\unlam\cursada\3er año\2 do c\tópicos\a\nueva carpeta\gestor\tda_ubicacion.c
+
+1790366762 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790348510 d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\inicio_sesion.h
+	<string.h>
+	<stdio.h>
+
+1790364884 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\menu.c
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790344417 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_compra.c
+
+1790344489 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_entrada.c
+
+1790344290 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_establecimiento.c
+
+1790344225 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_evento.c
+
+1790344322 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_sector.c
+
+1790344372 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_ubicacion.c
+
+1790354804 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\inicio_sesion.c
+	"Inicio_Sesion.h"
+
+1790364374 source:d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_usuario.c
+	"TDA_Usuario.h"
+
+1790364128 d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\tda_usuario.h
+	<string.h>
+	<stdio.h>
+
+1790365043 d:\rocio\unlam\cursada\3er año\2 do c\topicos\a\gestor\menu.h
+	<stdio.h>
+
+1790364884 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\menu.c
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790365043 d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\menu.h
+	<stdio.h>
+
+1790364128 d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_usuario.h
+	<string.h>
+	<stdio.h>
+
+1790344417 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_compra.c
+
+1790344489 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_entrada.c
+
+1790344290 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_establecimiento.c
+
+1790344225 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_evento.c
+
+1790344322 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_sector.c
+
+1790344372 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_ubicacion.c
+
+1790364374 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\tda_usuario.c
+	"TDA_Usuario.h"
+
+1790608396 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\menu.c
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790367680 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\menu.h
+	<stdio.h>
+
+1790609679 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_usuario.h
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1790344417 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_compra.c
+
+1790344489 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_entrada.c
+
+1790344290 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_establecimiento.c
+
+1790344225 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_evento.c
+
+1790344322 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_sector.c
+
+1790344372 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_ubicacion.c
+
+1790610433 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\tda_usuario.c
+	"TDA_Usuario.h"
+
+1790367508 source:d:\rocio\unlam\cursada\3er año\2doc\topicos\a\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790610493 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790610492 source:d:\gestor\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790367680 d:\gestor\gestor\menu.h
+	<stdio.h>
+
+1790609678 d:\gestor\gestor\tda_usuario.h
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1790608396 source:d:\gestor\gestor\menu.c
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1790344416 source:d:\gestor\gestor\tda_compra.c
+
+1790344488 source:d:\gestor\gestor\tda_entrada.c
+
+1790344290 source:d:\gestor\gestor\tda_establecimiento.c
+
+1790344224 source:d:\gestor\gestor\tda_evento.c
+
+1790344322 source:d:\gestor\gestor\tda_sector.c
+
+1790344372 source:d:\gestor\gestor\tda_ubicacion.c
+
+1790610568 source:d:\gestor\gestor\tda_usuario.c
+	"TDA_Usuario.h"
+
+1791058964 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"TDA_Usuario.h"
+
+1791067543 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\menu.h
+	<stdio.h>
+
+1790609678 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_usuario.h
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1790344416 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_compra.c
+
+1790344488 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_entrada.c
+
+1791068912 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_establecimiento.c
+	"TDA_Establecimiento.h"
+
+1790344322 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_sector.c
+
+1790344372 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_ubicacion.c
+
+1791063745 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_usuario.c
+	"TDA_Usuario.h"
+
+1791069129 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\menu.c
+	"Menu.h"
+	"TDA_Usuario.h"
+	"TDA_Evento.h"
+	"TDA_Establecimiento.h"
+
+1791068480 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_evento.h
+	<stdio.h>
+	<string.h>
+
+1791064275 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\funciones_generales.c
+	"TDA_Usuario.h"
+
+1791068861 source:d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_evento.c
+	"TDA_Evento.h"
+	"Funciones_Generales.h"
+
+1791060916 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\funciones_generales.h
+	<stdio.h>
+
+1791068936 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_establecimiento.h
+	"TDA_Sector.h"
+	<stdio.h>
+
+1791068402 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_sector.h
+	"TDA_Ubicacion.h"
+
+1791068373 d:\rocio\unlam\cursada\3er anio\2doc\topicos\a\gestor\gestor\tda_ubicacion.h
+
