@@ -1,0 +1,45 @@
+# Build folders
+bin/
+build/
+Debug/
+Release/
+
+# Ignorar librerias de SDL
+include/
+lib/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Static/Dynamic libs
+*.a
+*.lib
+*.dll
+
+# Debug symbols
+*.pdb
+*.ilk
+*.dSYM/
+
+# MinGW / GCC temp
+*.stackdump
+
+# VS Code (if you use it)
+.vscode/
+
+# Logs
+*.log
+
+# Layout
+*.layout
+
+# Depend
+*.depend
+
+# Binaries
+*.bin
